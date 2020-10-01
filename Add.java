@@ -9,6 +9,8 @@ Class Add {
     System.out.println(a-b);
     
     System.out.println(a-b);
+    // power of two numbers
+    System.out.println(a**b);
     System.out.println(a/b);
 
   }
